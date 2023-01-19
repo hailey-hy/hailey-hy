@@ -14,10 +14,10 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </br>
 </br>
-<b>📖Studying</b></br>
+<!-- <b>📖Studying</b></br>
 <img src="https://img.shields.io/badge/Vanilla JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Web components-29ABE2?style=flat&logo=webcomponents.org&logoColor=white"/>
-</br>
+<img src="https://img.shields.io/badge/Web components-29ABE2?style=flat&logo=webcomponents.org&logoColor=white"/> -->
+<!-- </br> -->
 </br>
 <b>📝PS</b></br>
 [![Solved.ac
