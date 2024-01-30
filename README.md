@@ -2,9 +2,6 @@
 
 <div align=center>
 
-<b>👋Intro</b></br>
-안녕하세요! 예비 프론트엔드 개발자 전해연입니다. <br>스타트업 업계에서 기획자로 일하다 개발자가 되기 위해 공부 중입니다.<br>
-
 <b>🔧Skills</b></br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> 
